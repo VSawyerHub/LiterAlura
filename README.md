@@ -29,22 +29,6 @@ O catálogo oferece as seguintes funcionalidades básicas:
 
 LiterAlura. Você aprenderá a realizar solicitações a uma API de livros, manipular dados JSON, armazená-los em um banco de dados e, por fim, a filtrar e mostrar os livros e autores de interesse.
 
-## Sumário
-
-- [Sobre o Projeto](#sobre-o-projeto)
-  - [Construído com](#construído-com)
-- [Começando](#começando)
-  - [Pré-requisitos](#pré-requisitos)
-  - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
-## Sobre o Projeto
-
-
-
 ### Construído com
 
 Java JDK: versão: 17 em diante
