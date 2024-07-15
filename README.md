@@ -29,8 +29,6 @@ The catalog offers the following basic functionalities:
 
 # LiterAlura
 
-![Project Logo](link_para_logo_se_houver)
-
 LiterAlura. You will learn how to make requests to a book API, manipulate JSON data, store it in a database and, finally, filter and display the books and authors of interest.
 
 ### Built with
