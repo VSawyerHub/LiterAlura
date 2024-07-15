@@ -2,6 +2,10 @@
 
 This project consists of a book catalog that allows textual interaction via console. It uses a specific API to search for information about books.
 
+<p align="center">
+<img src="https://github.com/VSawyerHub/LiterAlura/blob/master/badge%20literalura.png" />
+</p>
+
 ## Functionalities
 
 The catalog offers the following basic functionalities:
