@@ -47,12 +47,11 @@ LiterAlura. Você aprenderá a realizar solicitações a uma API de livros, mani
 
 ### Construído com
 
-Java JDK: versão: 17 em diante -
-Download the Latest Java LTS Free
+Java JDK: versão: 17 em diante
 Maven: versão 4 em diante
 Spring: versão 3.2.3 - https://start.spring.io/
 Postgres: versão16 em diante - PostgreSQL: Downloads
-IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional -
+IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional
 Baixe o IntelliJ IDEA – O principal IDE para Java e Kotlin
 Configuração ao criar o projecto com Spring Initializr:
 
