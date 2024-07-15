@@ -1,49 +1,49 @@
-# Catálogo de Livros via Console
+# Book Catalog via Console
 
-Este projeto consiste em um catálogo de livros que permite interação textual via console. Utiliza uma API específica para buscar informações sobre os livros.
+This project consists of a book catalog that allows textual interaction via console. It uses a specific API to search for information about books.
 
-## Funcionalidades
+## Functionalities
 
-O catálogo oferece as seguintes funcionalidades básicas:
+The catalog offers the following basic functionalities:
 
-1. **Listar todos os livros**: Mostra todos os livros disponíveis no catálogo.
-2. **Buscar livro por título**: Permite buscar um livro específico pelo título.
-3. **Buscar livros por autor**: Lista os livros de um autor específico.
-4. **Mostrar detalhes de um livro**: Exibe todas as informações detalhadas de um livro selecionado.
-5. **Recomendação aleatória**: Sugere um livro aleatório do catálogo.
+1. **List all books**: Shows all books available in the catalogue.
+2. **Search book by title**: Allows you to search for a specific book by title.
+3. **Search books by author**: Lists books by a specific author.
+4. **Show details of a book**: Displays all detailed information for a selected book.
+5. **Random recommendation**: Suggests a random book from the catalogue.
 
-## Pronto para Iniciar
+## Ready to Start
 
 ### Backlog
 
-- [ ] Implementar a integração com a API de livros.
-- [ ] Desenvolver a funcionalidade de listar todos os livros.
-- [ ] Implementar a busca de livros por título.
-- [ ] Adicionar a opção de buscar livros por autor.
-- [ ] Desenvolver a exibição detalhada de um livro.
-- [ ] Implementar a funcionalidade de recomendação aleatória.
+- [ ] Implement integration with the books API.
+- [ ] Develop the functionality to list all books.
+- [ ] Implement the search for books by title.
+- [ ] Add the option to search for books by author.
+- [ ] Develop a detailed display of a book.
+- [ ] Implement random recommendation functionality.
 
 # LiterAlura
 
-![Logo do Projeto](link_para_logo_se_houver)
+![Project Logo](link_para_logo_se_houver)
 
-LiterAlura. Você aprenderá a realizar solicitações a uma API de livros, manipular dados JSON, armazená-los em um banco de dados e, por fim, a filtrar e mostrar os livros e autores de interesse.
+LiterAlura. You will learn how to make requests to a book API, manipulate JSON data, store it in a database and, finally, filter and display the books and authors of interest.
 
-### Construído com
+### Built with
 
-Java JDK: versão: 17 em diante
-Maven: versão 4 em diante
-Spring: versão 3.2.3 - https://start.spring.io/
-Postgres: versão16 em diante - PostgreSQL: Downloads
-IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional
-Baixe o IntelliJ IDEA – O principal IDE para Java e Kotlin
-Configuração ao criar o projecto com Spring Initializr:
+Java JDK: version: 17 onwards
+Maven: version 4 onwards
+Spring: version 3.2.3 - https://start.spring.io/
+Postgres: version 16 onwards - PostgreSQL: Downloads
+IDE (Integrated Development Environment) IntelliJ IDEA - optional
+Download IntelliJ IDEA – The leading IDE for Java and Kotlin
+Configuration when creating the project with Spring Initializr:
 
-Java (versão 17 em diante)
-Maven (Initializr utiliza a versão 4)
-Spring Boot (versão 3.2.3)
-Projeto em JAR
-Dependências para adicionar ao criar o projeto com Spring Initializr:
+Java (version 17 onwards)
+Maven (Initializr uses version 4)
+Spring Boot (version 3.2.3)
+Project in JAR
+Dependencies to add when creating the project with Spring Initializr:
 
 Spring Data JPA
 Postgres Driver
